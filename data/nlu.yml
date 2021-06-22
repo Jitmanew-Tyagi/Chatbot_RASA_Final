@@ -238,6 +238,7 @@ nlu:
 
 - intent: Prerequisite
   examples: |
+    - What are the prerequisites for the course?
     - Must my child be a good mathematician to be a coder?
     - Does my child need to be good at mathematics to be a coder?
     - Does my child need to be good at math to be a code writer?
@@ -683,6 +684,7 @@ nlu:
     -	How long is your course?
     -	How long is a lesson?
     -	How much is a course?
+    - What is the duration of the course?
     -	How long does one course last?
     -	How long does a class take?
     -	How long is the class?
@@ -716,6 +718,7 @@ nlu:
     -	How does the division of classes take place?
     -	How does the class breakdown work?
     -	How do you divide classes?
+    - What are durations of the offered courses?
     -	How does the class distribution come about?
     -	How do classes break down?
     -	How is the classification done?

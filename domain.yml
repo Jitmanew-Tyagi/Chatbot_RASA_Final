@@ -111,10 +111,10 @@ responses:
   - text: "Yes, of course."
 
   utter_Specific_questions1:
-  - text: "Mobile Development"
+  - text: "The 'Mobile Development' course present on our platform will be a sure path."
 
   utter_Specific_questions:
-  - text: "Web Development"
+  - text: "There is a 'Web Development' course specifically designed for children. Please check it out."
 
   utter_Monitor:
   - text: "We provide 1-1 interaction in the live classes.We do monitor kids individually.We teach in an interactive manner that a child need not be monitored by his/her parent."
